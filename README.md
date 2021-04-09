@@ -1,1 +1,2 @@
-# Auto-Polate-Text-Input
+# AutoPopulateTextInput
+Tab Bar icons and auto-populate text
